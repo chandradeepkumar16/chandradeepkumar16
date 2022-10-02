@@ -1,5 +1,6 @@
 ### Hi there , <H2>I'm Chandradeep Kumar <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> </h2>
  👋
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="430" height="320" />
 
 
 
@@ -11,6 +12,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Software Development Projects
 - 💬 Ask me about Android and Cricket
 - 📫 How to reach me: [LinkedIn - @Chandradeep Kumar](https://www.linkedin.com/in/chandradeepkumar16/)
+                       
+- 📫 Email **chandradeepkumar2002.ck@gmail.com**
 
 - ⚡ Fun fact: I can listen music whole day
 
@@ -51,6 +54,7 @@ Here are some ideas to get you started:
 
 
 ## 🎧 Spotify Playing 
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=paj121jy9sswlvo6gzmrtvwe4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=paj121jy9sswlvo6gzmrtvwe4&redirect=true)
 
