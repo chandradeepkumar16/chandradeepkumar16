@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 <a href = "https://www.codechef.com/users/chandradeep16"><img src= "https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" height = "40px" width="40px" ></a>
 
-<h3><img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/statistics.gif" width="35" height="30"> Tech Stack </h3>
+<h3> 🤔 Tech Stack </h3>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=chandradeepkumar16&show_icons=true&theme=dracula&hide=contribs,issues">
@@ -48,6 +48,11 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/chandradeep_ck)
 <br><br>
 
+
+
+## 🎧 Spotify Playing 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=paj121jy9sswlvo6gzmrtvwe4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=paj121jy9sswlvo6gzmrtvwe4&redirect=true)
 
 
 
