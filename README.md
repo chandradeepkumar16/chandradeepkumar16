@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I can listen music whole day
 
+<img src="https://github-readme-stats.vercel.app/api?username=chandradeepkumar16&show_icons=true&theme=dracula&hide=contribs,issues">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandradeepkumar16&layout=compact&langs_count=8">
+
