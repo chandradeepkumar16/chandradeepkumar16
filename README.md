@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3> 🤔 Tech Stack </h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandradeepkumar16&show_icons=true&theme=dracula&hide=contribs,issues">
+<img src="https://github-stats-alpha.vercel.app/api/?username=chandradeepkumar16&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandradeepkumar16&layout=compact&langs_count=8">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandradeepkumar16&theme=dracula">
 
