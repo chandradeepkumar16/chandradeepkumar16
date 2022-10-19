@@ -55,6 +55,7 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=paj121jy9sswlvo6gzmrtvwe4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=paj121jy9sswlvo6gzmrtvwe4&redirect=true)
+https://github-readme-stats.vercel.app/api?username=chandradeepkumar16&&show_icons=true&title_color=ffffff&icon_color=bb2acf
 -->
 
 
